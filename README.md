@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gilcesartst
+- 👀 I’m interested in web scraping and data analysis with Python !
+- 🌱 I’m currently learning data science and Qt6 and Pyside6 GUI
+- 💞️ I’m looking to collaborate on LINUX Ubuntu, Python programming language and Raspberry PI 
+- 📫 How to reach me on https://www.linkedin.com/in/gil-cesar-martins
